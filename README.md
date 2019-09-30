@@ -64,8 +64,9 @@ Please read the [contributing guidelines](CONTRIBUTING.md).
 
 - [Migrations Documentation](https://sequelize.org/master/manual/migrations.html)
 - [CLI Options](docs/README.md)
+- [Associations Documentation](https://sequelize.org/master/manual/associations.html)
 - [Frequently Asked Questions](docs/FAQ.md)
 
 
 
-   #### THANK YOU
+   # THANK YOU
